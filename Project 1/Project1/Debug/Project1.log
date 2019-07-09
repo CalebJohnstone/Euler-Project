@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Project2.cpp
+Project2.obj : error LNK2005: _main already defined in Project1.obj
+C:\Caleb\Euler Project\Problem 1\Project1\Debug\Project1-10.exe : fatal error LNK1169: one or more multiply defined symbols found
