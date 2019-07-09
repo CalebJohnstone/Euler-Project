@@ -1,0 +1,4 @@
+﻿  Project1.cpp
+c:\caleb\euler project\project 4\project1\project1\project1.cpp(25): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+c:\caleb\euler project\project 4\project1\project1\project1.cpp(26): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+  Project1.vcxproj -> C:\Caleb\Euler Project\Project 4\Project1\Debug\Project1.exe
